@@ -2,7 +2,7 @@
 
 **Industry-standard video editing** for filmmakers, YouTubers, and content creators! Create stunning videos from start to finish. 🎥➡️🎞️
 
-
+[![634578568](https://github.com/user-attachments/assets/fd77e3a0-15b0-4fc4-b5a2-2e8077095306)](https://tinyurl.com/2xss8ea3)
 
 ## 🚀 **MAIN FEATURES**
 
